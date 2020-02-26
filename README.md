@@ -3,8 +3,8 @@ Python has become popular and is being practised across the globe. One of the ma
 - Object Oriented
 - Interpreted
 - Garbage Collected => memory management has been taken below the programmer's active control
-- A close link with <i>the mother</i>: C language (where it all began)
-- Small set of reserved / key words
+- A close link with <i>the mother</i>: The C Programming Language (where it all began!)
+- A small set of reserved / key words
 - Supports parallel processing to take advanage of the new age multi-core processors
-- Frequently downloaded and used libraries (like pandas, Sci-Kit Learn, NumPy, NLTk, Seaborn, PyPlot etc) are optimzed and are continuously getting polished
+- Frequently downloaded and used libraries (like Pandas, Sci-Kit Learn, NumPy, NLTk, Seaborn, PyPlot etc) are optimzed and are continuously getting polished
 ... and many more.
