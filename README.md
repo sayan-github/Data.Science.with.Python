@@ -1,5 +1,5 @@
 ##### 
-Python has become popular and is being practised across the globe. One of the major reasons for that is, it has an enormous library that can virtually deliver anything under the sun. But there are other reasons behind this <i>insane</i> popularity of this language (which was a product of Guido van Rossum's off-time activity!): 
+Python has become popular and is being practised across the globe. One of the major reasons for that is, it has an enormous library that can virtually deliver anything under the sun. But there are other reasons behind this <i>insane</i> popularity of the language (which was a product of Guido van Rossum's off-time activity!): 
 - Object Oriented
 - Interpreted
 - Garbage Collected => memory management has been taken below the programmer's active control
