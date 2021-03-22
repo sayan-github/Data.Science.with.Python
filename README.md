@@ -7,5 +7,4 @@ Python has become popular and is being practised across the globe. One of the ma
 - A small set of reserved / key words
 - Supports parallel processing to take advanage of the new age multi-core processors
 - Frequently downloaded and used libraries (like Pandas, Sci-Kit Learn, NumPy, NLTk, Seaborn, PyPlot etc) are optimzed and are continuously getting polished
-<b>
-... and the list goes on.
+
