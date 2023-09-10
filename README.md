@@ -7,6 +7,6 @@ Python has become popular and is being practised across the globe. One of the ma
 - A small set of reserved / key words
 - Supports parallel processing to take advanage of the new age multi-core processors
 - Frequently downloaded and used libraries (like Pandas, Sci-Kit Learn, NumPy, NLTk, Seaborn, PyPlot, keras, OpenCV2 etc) are optimzed and are continuously getting polished
-- Once in a while Python constructs give flashes of its <i>the mother</i>, the C Language. In fact Guido's book on extending Python (published by PSF) uses C to explain the nuts and bolts.
+- Once in a while Python constructs give flashes of its <i>mother</i>, the C Language. In fact Guido's book on extending Python (published by PSF) uses C to explain the nuts and bolts.
 
 (Dated: 10-Sep-2023)
